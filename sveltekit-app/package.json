@@ -13,7 +13,7 @@
     "svelte": "^3.44.0"
   },
   "dependencies": {
-    "module": "workspace:*"
+    "a_lib": "workspace:*"
   },
   "type": "module"
 }
